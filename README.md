@@ -1,3 +1,2 @@
 # EasyTestGit
-TallerHCS
 Christian Cabanillas
